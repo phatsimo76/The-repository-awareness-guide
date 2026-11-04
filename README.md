@@ -1,5 +1,5 @@
 
-Phishing is a form of cybercrime case whereby attackers send emails pretending to be trustworthy inorder to trick prople and attain sensitive information eg student credentials and bank details.
+Phishing is a form of cybercrime case whereby attackers send emails pretending to be trustworthy inorder to trick people and attain sensitive information eg student credentials and bank details.
 # Below is a guide which will prevent students and stuff from falling prone to this attack and protect themselves.
 Sings of Phishing :Poor spelling grammar
 •Suspicious email adresses
