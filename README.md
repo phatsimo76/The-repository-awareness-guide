@@ -13,3 +13,6 @@ Sings of Phishing :Poor spelling grammar
 •Update your softwares
 •Do not click suspicious urgentic links
 #Importance of these notices is to help people to be aware and to keep themdelves safe.So be aware and make the right choice.
+[signs of phishing](guides/Phishing-signs.md)
+[Types of phishing](guides/Phishing-types.md)
+[How to prevent it](guides/Phishing-prevention.md)
